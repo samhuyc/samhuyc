@@ -12,6 +12,9 @@ I have been involved in a number of trading competitions as well, check out my p
 
 | Competition | Date | Repo | Standing | Notes | Collaborators |
 | --- | --- | --- | --- | --- | --- |
+|Rotman Trading Competition (CMU site)| 9/2025 | TBD | 2nd/75 teams | Also won the High Sharpe Award | Liwen Tang|
+|IMC Prosperity 2| 3/2024 | TBD | 14th/9000 teams | Trading Talent Award for Top 25| David Feng, Jonathan Wang|
+|IMC Prosperity 1| 3/2023 | TBD | 103th/7000 teams | | | 
 
 My ongoing projects include:
 
