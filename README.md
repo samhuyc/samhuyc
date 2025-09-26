@@ -12,18 +12,19 @@ I have been involved in a number of trading competitions as well, check out my p
 
 | Competition | Date | Repo | Standing | Notes | Collaborators |
 | --- | --- | --- | --- | --- | --- |
-|Rotman Trading Competition (CMU site)| 9/2025 | TBD | 2nd/75 teams | Also won the High Sharpe Award | Liwen Tang|
-|IMC Prosperity 2| 3/2024 | TBD | 14th/9000 teams | Trading Talent Award for Top 25| David Feng, Jonathan Wang|
+|Rotman Trading Competition (CMU site)| 9/2025 | TBD | 2nd/75 teams | High Sharpe Award | Liwen Tang|
+|IMC Prosperity 2| 3/2024 | TBD | 14th/9000 teams | Trading Talent (Top 25)| David Feng, Jonathan Wang|
 |IMC Prosperity 1| 3/2023 | TBD | 103th/7000 teams | | | 
 
 My ongoing projects include:
 
-| Project | Repo | Description | Collaborators |
+| Project | Repo | Description | 
 | --- | --- | --- | --- |
-| TBD | [Repository](https://example.com/) | Short description here. | TBD |
+| Generative Sampling with Optimal Transport| [JMM2025 poster](https://example.com/) | Ongoing research with Dr.Trigela and Dr. Baptista | 
+| CS336 | [My progress](https://example.com/) | Learn to build LLM from scratch | 
 
 My past projects include:
 
-| Project | Repo | Description | Collaborators |
+| Project | Repo | Description | 
 | --- | --- | --- | --- |
-| TBD | [Repository](https://example.com/) | Short description here. | TBD |
+| CureConnect| [Repository](https://example.com/) | Submission for HackMIT2024 |
