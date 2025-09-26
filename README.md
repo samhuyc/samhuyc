@@ -19,12 +19,12 @@ I have been involved in a number of trading competitions as well, check out my p
 My ongoing projects include:
 
 | Project | Repo | Description | 
-| --- | --- | --- | --- |
+| --- | --- | --- | 
 | Generative Sampling with Optimal Transport| [JMM2025 poster](https://example.com/) | Ongoing research with Dr.Trigela and Dr. Baptista | 
 | CS336 | [My progress](https://example.com/) | Learn to build LLM from scratch | 
 
 My past projects include:
 
 | Project | Repo | Description | 
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | CureConnect| [Repository](https://example.com/) | Submission for HackMIT2024 |
