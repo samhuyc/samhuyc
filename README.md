@@ -13,7 +13,7 @@ I graduated from Swarthmore College with a major in Math in 2025, and I'm curren
 
 | Competition | Date | Reference | Standing | Notes | Collaborators |
 | --- | --- | --- | --- | --- | --- |
-|Rotman Trading Competition (CMU site)| 9/2025 | [My repo](https://github.com/samhuyc/rotman2025) | 2nd/75 teams | Highest Sharpe Award | Liwen Tang|
+|Rotman Trading Competition (CMU site)| 9/2025 | [My repo](https://github.com/samhuyc/Rotman2025) | 2nd/75 teams | Highest Sharpe Award | Liwen Tang|
 |IMC Prosperity 2| 3/2024 | [My repo](https://github.com/samhuyc/IMC2024) | 14th/9000 teams | Trading Talent (Top 25)| Brian Xiang, Jonathan Wang|
 |IMC Prosperity 1| 3/2023 | [My repo](https://github.com/samhuyc/IMC2023) | 103th/7000 teams | | | 
 
