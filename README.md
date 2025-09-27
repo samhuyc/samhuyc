@@ -4,6 +4,7 @@ I graduated from Swarthmore College with a major in Math in 2025, and I'm curren
 
 ### I'm a big fan of competitive programming, check out my:
 
+- [My competitive programming repo](https://github.com/samhuyc/Competitive-Programming-Prep) that contains my solutions to codeforces, AoC, and Meta Hackercup 2024 contests
 - [LeetCode profile](https://leetcode.com/u/bronzekiller2017/) (~2200 rating)
 - [Codeforces profile](https://codeforces.com/profile/samhuyc) (~1650 rating)
 - [Kattis profile](https://open.kattis.com/users/samhuyc)
@@ -20,7 +21,7 @@ I graduated from Swarthmore College with a major in Math in 2025, and I'm curren
 
 | Project | Reference | Description | 
 | --- | --- | --- | 
-| Generative Sampling with Optimal Transport| [JMM2025 poster](https://github.com/samhuyc/Optimal-Transport-based-Gradient-Flow-Model) | Ongoing research with Dr.Trigila and Dr. Baptista | 
+| Generative Sampling with Optimal Transport| [JMM2025 poster](https://github.com/samhuyc/Optimal-Transport-based-Gradient-Flow-Model) | Ongoing research with Dr. G. Trigila and Dr. R. Baptista | 
 | Stanford CS336 | [My repo](https://github.com/samhuyc/CS336-hw1) | Learn to build LLM from scratch | 
 
 ### My past projects include:
