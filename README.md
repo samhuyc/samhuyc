@@ -21,7 +21,7 @@ I graduated from Swarthmore College with a major in Math in 2025, and I'm curren
 
 | Project | Reference | Description | 
 | --- | --- | --- | 
-| Generative Sampling with Optimal Transport| [JMM2025 poster](https://github.com/samhuyc/Optimal-Transport-based-Gradient-Flow-Model) | Ongoing research with Dr. G. Trigila and Dr. R. Baptista | 
+| Generative Sampling with Optimal Transport| [JMM2025 poster](https://github.com/samhuyc/Optimal-Transport-based-Gradient-Flow-Model/blob/main/poster.pdf) | Ongoing research with Dr. G. Trigila and Dr. R. Baptista | 
 | Stanford CS336 | [My repo (last update: 9/25/2025)](https://github.com/samhuyc/CS336-hw1) | Learn to build LLM from scratch | 
 
 ### My past projects include:
