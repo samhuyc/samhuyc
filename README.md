@@ -5,7 +5,7 @@ I graduated from Swarthmore College with a major in Math in 2025, and I'm curren
 ### I'm a big fan of competitive programming, check out my:
 
 - [My competitive programming repo](https://github.com/samhuyc/Competitive-Programming-Prep) that contains my solutions to codeforces, AoC, and Meta Hackercup 2024 contests
-- [LeetCode profile](https://leetcode.com/u/bronzekiller2017/) (~2200 rating)
+- [LeetCode profile](https://leetcode.com/u/bronzekiller2017/) (~2300 rating)
 - [Codeforces profile](https://codeforces.com/profile/samhuyc) (~1650 rating)
 - [Kattis profile](https://open.kattis.com/users/samhuyc)
 
