@@ -26,9 +26,7 @@ I graduated from Swarthmore College with a major in Math in 2025, and I'm curren
 
 ### My past projects include:
 
-### My past projects include:
-
 | Project | Reference | Description |
-|:--|:--|:--|
+| -- | -- | -- |
 | Backtester | [My repo](https://github.com/samhuyc/Backtester) | Modular trading backtester library |
 | CureConnect | [My repo](https://github.com/samhuyc/Cure-Connect) | Submission for HackMIT2024 |
